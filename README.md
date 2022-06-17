@@ -1,12 +1,16 @@
 # Hilo
 Do you like almost even odds? Are you interested in taking chances to see if you 
 can win? Give Hilo a chance. It's a very simple card game. You start off with 300 points.
+
 The dealer gives you one card face up. You get to call if you think the next card 
 dealt will be higher or lower. 
 
 If you get it right, you get 100 points, but if 
 you get it wrong you lose 75 points. Keep playing until your points reach 0, until you 
 decide to stop.
+
+If you want to play again, the new card now becomes the 'old' card, and you guess if 
+you think the next card dealt will be higher or lower than that one.
 
 ## Getting Started
 ---
